@@ -1,5 +1,9 @@
 # One Word for Your Wi-Fi
 
+[![make.fun · u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
+[![rank](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/khascane/one-word-wifi-entry/rank.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/leaderboard)
+[![reward](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/khascane/one-word-wifi-entry/reward.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
+
 Entry for the make.fun bounty "One Word for Your Wi-Fi", where a single
 word describing home Wi-Fi is judged against other entries and the winning
 word becomes the sponsor's Wi-Fi network name.
